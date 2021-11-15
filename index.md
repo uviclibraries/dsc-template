@@ -3,6 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
+**UPDATE PHOTO**
 <img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
 
 # WORKSHOP TITLE HERE (Use Regular Case Like this)
@@ -30,9 +31,6 @@ This workshop is not an endorsement of Taguette; there are many options for qual
 At the end of this workshop, you will be able to:
 
 1. Identify the differences between manual coding and coding with qualitative coding software
-2. Use Taguette on either their personal computer or on a cloud-based server
-3. Will have coded at least two texts of their choosing (interviews, speeches, lectures, announcements, etc.) using techniques covered in the workshop
-4. Will have research materials with codes and have exported them
-5. Created a basic analysis of coded data in Excel
+2. **MORE OBJECTIVES**
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
