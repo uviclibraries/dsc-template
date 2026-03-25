@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Activities Introduction
-nav_order: 4
+nav_order: 3
 ---
 # Hands-On Activities Introduction
 
